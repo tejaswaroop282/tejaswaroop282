@@ -12,8 +12,8 @@
 
 <a href="mailto:yanamalatejaswaroop@gmail.com"><img src="https://img.shields.io/badge/EMAIL-YANAMALATEJASWAROOP%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/LINKEDIN-ID"><img src="https://img.shields.io/badge/LINKEDIN-TEJASWAROOP%20REDDY-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555" alt="LinkedIn" /></a>
-<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GITHUB-USERNAME-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555" alt="GitHub" /></a>
-<a href="https://leetcode.com/u/LEETCODE-USERNAME"><img src="https://img.shields.io/badge/LEETCODE-LEETCODE--USERNAME-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=555" alt="LeetCode" /></a>
+<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/tejaswaroop282-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/tejaswaroop2005"><img src="https://img.shields.io/badge/LEETCODE-LEETCODE--USERNAME-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=555" alt="LeetCode" /></a>
 
 <a href="https://drive.google.com/CERTIFICATIONS-LINK"><img src="https://img.shields.io/badge/CERTIFICATIONS-GOOGLE%20DRIVE-2EA44F?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=555" alt="Certifications" /></a>
 <a href="https://MOVIE-BOOKING-LIVE-DEMO"><img src="https://img.shields.io/badge/LIVE%20DEMO-MOVIE%20BOOKING-F5C518?style=for-the-badge&labelColor=555" alt="Live Demo" /></a>
@@ -53,7 +53,7 @@ I am a final-year Computer Science undergraduate at SRM University AP, Guntur. M
 | :--- | :--- | :--- |
 | **[Movie Ticket Booking Platform](https://github.com/tejaswaroop282/quickshow_deploy)** | Full-stack booking app with seat selection and Stripe payments. 12 REST endpoints, and Inngest background jobs release unpaid seats after 10 minutes to prevent double booking | React, Node.js, Express, MongoDB, Clerk, Inngest, Stripe, TMDB API |
 | **[Cache Replacement Policy Simulator](https://github.com/tejaswaroop282/Cache_simulator)** | FIFO, LRU, and LFU eviction policies in C++ with O(1) LRU/LFU operations, plus a workload generator that benchmarks all three on identical hot-cold access patterns | C++17, STL, OOP |
-| **[Student Mental Health Prediction System](https://github.com/tejaswaroop282/ML-REPO)** | 3-class stress-level classifier. Logistic Regression, Random Forest, and XGBoost compared; Logistic Regression reached 98.77% accuracy and 97.86% Macro-F1 | Python, Scikit-learn, Streamlit |
+| **[Student Mental Health Prediction System](https://github.com/tejaswaroop282/Student_mental_health)** | 3-class stress-level classifier. Logistic Regression, Random Forest, and XGBoost compared; Logistic Regression reached 98.77% accuracy and 97.86% Macro-F1 | Python, Scikit-learn, Streamlit |
 
 ---
 
