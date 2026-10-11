@@ -12,8 +12,8 @@
 
 <a href="mailto:yanamalatejaswaroop@gmail.com"><img src="https://img.shields.io/badge/EMAIL-YANAMALATEJASWAROOP%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/LINKEDIN-ID"><img src="https://img.shields.io/badge/LINKEDIN-TEJASWAROOP%20REDDY-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555" alt="LinkedIn" /></a>
-<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/tejaswaroop282-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555" alt="GitHub" /></a>
-<a href="https://leetcode.com/u/tejaswaroop2005"><img src="https://img.shields.io/badge/LEETCODE-LEETCODE--USERNAME-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=555" alt="LeetCode" /></a>
+<a href="https://github.com/tejaswaroop282"><img src="https://img.shields.io/badge/tejaswaroop282-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/tejaswaroopreddy"><img src="https://img.shields.io/badge/LEETCODE-tejaswaroopreddy-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=555" alt="LeetCode" /></a>
 
 <a href="https://drive.google.com/CERTIFICATIONS-LINK"><img src="https://img.shields.io/badge/CERTIFICATIONS-GOOGLE%20DRIVE-2EA44F?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=555" alt="Certifications" /></a>
 <a href="https://MOVIE-BOOKING-LIVE-DEMO"><img src="https://img.shields.io/badge/LIVE%20DEMO-MOVIE%20BOOKING-F5C518?style=for-the-badge&labelColor=555" alt="Live Demo" /></a>
