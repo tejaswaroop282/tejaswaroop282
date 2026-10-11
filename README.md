@@ -4,7 +4,7 @@
 
 # Hi there, I'm Tejaswaroop Reddy Yanamala 👋
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/tejaswaroop282">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&height=60&lines=Final-Year+CS+%40+SRM+University+AP;Full-Stack+Developer+%7C+MERN+%2B+AWS;C%2B%2B+%7C+DSA+%7C+300%2B+Problems+Solved" alt="Typing SVG" />
 </a>
 
@@ -51,9 +51,9 @@ I am a final-year Computer Science undergraduate at SRM University AP, Guntur. M
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[Movie Ticket Booking Platform](https://github.com/USERNAME/MOVIE-REPO)** | Full-stack booking app with seat selection and Stripe payments. 12 REST endpoints, and Inngest background jobs release unpaid seats after 10 minutes to prevent double booking | React, Node.js, Express, MongoDB, Clerk, Inngest, Stripe, TMDB API |
-| **[Cache Replacement Policy Simulator](https://github.com/USERNAME/CACHE-REPO)** | FIFO, LRU, and LFU eviction policies in C++ with O(1) LRU/LFU operations, plus a workload generator that benchmarks all three on identical hot-cold access patterns | C++17, STL, OOP |
-| **[Student Mental Health Prediction System](https://github.com/USERNAME/ML-REPO)** | 3-class stress-level classifier. Logistic Regression, Random Forest, and XGBoost compared; Logistic Regression reached 98.77% accuracy and 97.86% Macro-F1 | Python, Scikit-learn, Streamlit |
+| **[Movie Ticket Booking Platform](https://github.com/tejaswaroop282/quickshow_deploy)** | Full-stack booking app with seat selection and Stripe payments. 12 REST endpoints, and Inngest background jobs release unpaid seats after 10 minutes to prevent double booking | React, Node.js, Express, MongoDB, Clerk, Inngest, Stripe, TMDB API |
+| **[Cache Replacement Policy Simulator](https://github.com/tejaswaroop282/Cache_simulator)** | FIFO, LRU, and LFU eviction policies in C++ with O(1) LRU/LFU operations, plus a workload generator that benchmarks all three on identical hot-cold access patterns | C++17, STL, OOP |
+| **[Student Mental Health Prediction System](https://github.com/tejaswaroop282/ML-REPO)** | 3-class stress-level classifier. Logistic Regression, Random Forest, and XGBoost compared; Logistic Regression reached 98.77% accuracy and 97.86% Macro-F1 | Python, Scikit-learn, Streamlit |
 
 ---
 
@@ -71,8 +71,8 @@ I am a final-year Computer Science undergraduate at SRM University AP, Guntur. M
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tejaswaroop282&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswaroop282&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
